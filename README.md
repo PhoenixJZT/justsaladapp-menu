@@ -3,13 +3,14 @@ Replication of the features added to the Just Salad LevelUp mobile app menu.
 
 Update Goal:
 ------------
-To condense the menu and nutrition tabs of the app to one menu of items with sliding nutrition label panel.
+To condense the menu (http://bardworx.com/JS/LevelUP/Menu/index.html) and nutrition tabs (http://bardworx.com/JS/LevelUP/Nutrition/index.html)
+of the app to one menu of items with sliding nutrition label panel.
 Additionally, the previous implementation of the nutrition tab opened the label in the device's browser,
 rather than within the running app.
 
 Legacy:
 -------
-* Editing and testing done 7/10/14 - 7/28/14 on http://bardworx.com/JS/test/index.html. Update pushed 12/09/14 (1.1.0).
+* Editing and browser testing done 7/10/14 - 7/28/14. Update pushed 12/09/14 (1.1.0).
 * 2015 commits demonstrate a sample of the changes made before the update. Note that the directory structure of this repo
 differs from that on the bardworx test server. This has been done for the sake of readability and to reflect the structure
 of the app.
