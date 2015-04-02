@@ -32,4 +32,4 @@ Features Added:
     for a screen tap.
     
 3. Selected Category 
-    The selected menu category is highlighted green and snaps to the top of the page.
+    - The selected menu category is highlighted green and snaps to the top of the page.
